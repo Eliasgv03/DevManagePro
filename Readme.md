@@ -1,3 +1,6 @@
+# DevManegePro
+
+The development of tools that facilitate development tasks in teamwork enhances efficiency, improves collaboration and communication, streamlines processes, enhances software quality, and facilitates scalability and maintenance. This project is developed due to the lack and necessity of a comprehensive tool that allows organizing, assigning, and tracking development tasks in teamwork. Developing a platform that efficiently manages all stages of a software development project from planning and task allocation to tracking and completion. Providing an intuitive and easy-to-use tool that contributes to improving productivity and collaboration within the team.
 # DevManagePro Project Setup
 This project requires the following tools to be installed on your system:
  
