@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\DevManage.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\DevManage.dir/objects.a @CMakeFiles\DevManage.dir\objects1.rsp
+C:\MinGW\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\DevManage.dir/objects.a -Wl,--no-whole-archive -o DevManage.exe -Wl,--out-implib,libDevManage.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DevManage.dir\linkLibs.rsp

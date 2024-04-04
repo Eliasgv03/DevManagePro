@@ -1,0 +1,3 @@
+D:/universidad/SEGUNDO/1er Semestre/DEVMANAGEPRO/DevManagePro/cmake-build-debug/CMakeFiles/DevManage.dir
+D:/universidad/SEGUNDO/1er Semestre/DEVMANAGEPRO/DevManagePro/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/universidad/SEGUNDO/1er Semestre/DEVMANAGEPRO/DevManagePro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
